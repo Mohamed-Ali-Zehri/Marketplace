@@ -1,0 +1,21 @@
+{
+  "name": "nftmarketplace",
+  "version": "1.0.0",
+  "description": "this is a Marketplace where you can buy and sell your own Nfts ",
+  "main": "index.js",
+  "scripts": {
+    "test": "chai"
+  },
+  "keywords": [
+    "NFT"
+  ],
+  "author": "Mohamed Ali Zehri",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.4"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
